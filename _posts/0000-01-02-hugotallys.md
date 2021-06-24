@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Octocat would be a nice pet!
 Use the left arrow to go back!
